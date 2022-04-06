@@ -21,7 +21,7 @@
 ### Language proficiency
 Kazakh - native <br/>
 Russian - fluent <br/>
-English - intermediate <br/>
+English - Upper-intermediate <br/>
 
 <hr>
 

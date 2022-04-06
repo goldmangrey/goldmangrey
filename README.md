@@ -15,10 +15,10 @@
 ![ADS](https://img.shields.io/badge/-ADS-black?style=for-the-badge&logo=ads)
 
 ### Follow Me
-[![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram)](t.me/kalnazarr)
-[![Python](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=Instagram)](https://instagram.com/kalnazarr)
-[![Vkontakte](https://img.shields.io/badge/-Vkontakte-black?style=for-the-badge&logo=vk)](https://vk.com/kalnazar)
-[![Facebook](https://img.shields.io/badge/-Facebook-black?style=for-the-badge&logo=facebook)](https://www.facebook.com/kalnazarr)
+[![Telegram](https://img.shields.io/badge/-Telegram-black?style=for-the-badge&logo=telegram)](t.me/goldgrey)
+[![Python](https://img.shields.io/badge/-Instagram-black?style=for-the-badge&logo=Instagram)](https://instagram.com/goldmangrey)
+[![Linkedin](https://img.shields.io/badge/-Linkedin-black?style=for-the-badge&logo=in)](https://kz.linkedin.com/in/eskendir-iskakov-48228b232)
+
 
 ### Language proficiency
 Kazakh - native <br/>

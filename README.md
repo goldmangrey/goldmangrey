@@ -8,7 +8,6 @@
 ![Java](https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=java)
 ![HTML5](https://img.shields.io/badge/-HTML5-black?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-Css3-black?style=for-the-badge&logo=css3)
-![SQL](https://img.shields.io/badge/-SQL-black?style=for-the-badge&logo=mysql)
 ![SQL](https://img.shields.io/badge/-SQL-black?style=for-the-badge&logo=PostgreSQL)
 ![OOP](https://img.shields.io/badge/-OOP-black?style=for-the-badge&logo=oop)
 ![ADS](https://img.shields.io/badge/-ADS-black?style=for-the-badge&logo=ads)
